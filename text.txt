@@ -1,1 +1,2 @@
 Hello Git! Yeah. 666
+It's second line.
