@@ -2,3 +2,4 @@ Hello Git! Yeah. 666
 It's second line.
 test 2 from dev
 test 4 from dev
+NewLine from branch master from GitHub-test
