@@ -1,3 +1,4 @@
 Hello Git! Yeah. 666
 It's second line.
-test from dev
+test 2 from dev
+test 4 from dev
