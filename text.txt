@@ -1,4 +1,6 @@
 Hello Git! Yeah. 666
 It's second line.
 test 2 from dev
-test 4 from dev !!!
+test 4 from dev
+
+test git pull --rebase origin master
